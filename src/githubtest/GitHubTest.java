@@ -16,7 +16,7 @@ public class GitHubTest {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-	Syste.out.println("lol");
+	Syste.Out.println("lol");
     }
     
 }
